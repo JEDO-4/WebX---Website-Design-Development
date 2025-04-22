@@ -393,6 +393,7 @@ header ul li a:hover{
     border-radius: 5px;
     border: 2px solid var(--text);
     outline: 3px solid #fff;
+    margin-bottom:0.5rem;
 }
 .contact_us .container form div textarea{
     padding: 0.5rem;
